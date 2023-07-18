@@ -6,6 +6,8 @@ print(11) # int
 print(-11) # int
 print(0)
 
+# ctrl / transforma as linhas em comentário adicionando uma hashtag na frente
+
 # float -> Número com ponto flutuante
 # O tipo float representa qualquer número
 # positivo ou negativo com ponto flutuante.
@@ -15,3 +17,6 @@ print(0.0, -1.5)
 
 # A função type mostra o tipo que o Python
 # inferiu ao valor.
+print(type('Texto'))
+print(type(0))
+print(type(1.1), type(-1.1), type(0.0))
