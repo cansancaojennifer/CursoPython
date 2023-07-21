@@ -8,3 +8,5 @@ print(tres_vezes_luiz)
 
 nome = 'Nome' + ' ' + 'Sobrenome'
 print(nome)
+
+nome2 = 'Nome' + ' ' + 'Sobrenome' + ' ' + str(1)
